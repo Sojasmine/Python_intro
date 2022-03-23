@@ -24,6 +24,7 @@ def number_play(x):
     elif x == 1:
         print('Single')
     else:
+        
         print('More')
 
 number_play(-1)
